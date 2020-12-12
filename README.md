@@ -7,4 +7,4 @@ A Flutter app that helps you take actions to improve your device's battery lifes
 * [Dart](https://dart.dev/)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
